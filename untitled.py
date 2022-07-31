@@ -1,0 +1,1 @@
+print ("kamu kaya kontol")
